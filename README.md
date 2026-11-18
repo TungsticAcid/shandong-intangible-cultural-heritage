@@ -94,6 +94,8 @@
 | 滨州 | 累计 251 | <https://data.sd.gov.cn/portal/catalog/8DE47D69E7824E5EA0C24BF84C35B83D> |
 | 菏泽 | 累计 253 | <https://data.sd.gov.cn/portal/catalog/2CAD83503EAF4B91ABB06BB85249091A> |
 
+> 市级来源表的数字为原始接入行数（合计约 4,086）；经门类规范化、去重后，页面市级记录为 4,015 条。
+
 ### 县级来源明细
 
 | 县区 | 记录 | 来源 |
@@ -156,6 +158,8 @@ python -m http.server 8080
 ---
 
 ## Vercel 部署
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/TungsticAcid/shandong-intangible-cultural-heritage)
 
 1. 在 Vercel 中选择 **Add New → Project**，导入本 GitHub 仓库。
 2. Framework Preset 选择 **Other**。
