@@ -157,21 +157,6 @@ python -m http.server 8080
 
 ---
 
-## Vercel 部署
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/TungsticAcid/shandong-intangible-cultural-heritage)
-
-1. 在 Vercel 中选择 **Add New → Project**，导入本 GitHub 仓库。
-2. Framework Preset 选择 **Other**。
-3. Build Command、Install Command 留空；Output Directory 保持默认（仓库根目录）。
-4. Deploy。
-
-`index.html` 位于仓库根目录，Vercel 会直接作为静态站点托管；地图与名录均使用 hash 路由（`#/map/...`），不需要额外的 rewrite 规则。无需环境变量。
-
-> 页面内的官方来源链接会跳转到外部官方网站；H5 本身不发起运行时接口请求。
-
----
-
 ## 技术实现
 
 - 原生 HTML / CSS / ES5 JavaScript；无框架、无构建步骤、无运行时外部依赖。
