@@ -744,7 +744,7 @@
 
         '<section class="about-section"><div class="sec-label"><div class="num">06</div><h2>使用</h2><p>How to use</p></div><div class="about-content"><h3>地图操作</h3><table class="kbd-table"><tr><td>缩放</td><td>鼠标滚轮 / 双指捏合 / 工具栏 <kbd>+</kbd> <kbd>−</kbd>；双击地图放大</td></tr><tr><td>平移</td><td>按住拖动 / 单指拖动；键盘方向键微调</td></tr><tr><td>查看县区</td><td>点击地图上的县区，或左侧“市域索引”中的县区</td></tr><tr><td>返回</td><td>详情面板关闭按钮；浏览器后退；<kbd>Esc</kbd> 关闭弹层</td></tr><tr><td>着色切换</td><td>工具栏第二组“图层”按钮，在数量与门类之间切换</td></tr></table><h3>兼容性</h3><p>面向现代浏览器设计：Chrome / Edge / Firefox / Safari 及主流手机浏览器。页面不依赖外部字体、图片或接口，可离线打开；建议使用 360 极速、Chrome 或 Safari 获得最佳效果。</p><h3>无障碍</h3><p>地图与列表均提供文本替代；弹层可用 <kbd>Esc</kbd> 关闭；对“减少动态效果”的系统偏好做了动画降级。键盘用户可通过左侧索引与名录完成主要操作。</p></div></section>' +
 
-        '<div class="about-foot"><span>齐鲁非遗图志 · 山河为卷，非遗为脉</span><span>2026 山东省首届大学生 AI 大模型创新传播大赛 · 参赛作品</span></div>' +
+        '<div class="about-foot"><span>齐鲁非遗图志 · 山河为卷，非遗为脉</span></div>' +
       '</div>';
   };
 
