@@ -163,9 +163,9 @@
     renderSide();
     renderCityStrip();
     renderBreadcrumb();
+    setTitle('非遗地图 · 齐鲁非遗图志');
     applyMapRoute(r);
     closeSide();
-    setTitle('非遗地图 · 齐鲁非遗图志');
   }
 
   function applyMapRoute(r) {
